@@ -18,4 +18,7 @@ the data contains 1471 rows and 33 columns
 4-each column was converted to a number , data or text format depending on the column and its contents
 
 5-prepared the dataset for analysis 
-## data analysis :
+## data analysis : 
+
+                                                              Dashboard
+<img src="Dashboard" width="900">
