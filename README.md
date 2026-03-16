@@ -1,5 +1,5 @@
 # company_attrition_data_analysis_
-data analysis project use excel for 
+data analysis project using excel to explore company attrition 
 ## Data source :
 from kaggel 
 ## Tools used :
@@ -18,3 +18,4 @@ the data contains 1471 rows and 33 columns
 4-each column was converted to a number , data or text format depending on the column and its contents
 
 5-prepared the dataset for analysis 
+## data analysis :
