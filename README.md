@@ -32,7 +32,7 @@ employees with salaries below 5000 show the highest resignation rate
 
 employees who work overtime account for more than half of the resignations
 
-<img src="chart2.png" width="500">
+<img src="chart3.png" width="500">
 
 employees who travel account for more than 90% of the resignations
 ## key insights :
